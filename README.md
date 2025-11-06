@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+ Muhammad+Daniyal+👋;Computer+System+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Muhammad+Daniyal+👋;Computer+System+Engineer" />
 </h1>
 
 <h1 align="center">
