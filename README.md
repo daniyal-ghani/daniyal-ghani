@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi , I'm Daniyal
+Typing SVG
 
-<!--
-**daniyal-ghani/daniyal-ghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is me Muhammad Daniyal Computer System undergraduate from Dawood University of Engineering and Technology, Pakistan. An aspiring MERN Stack Developer,  Competitive Programmer  and Co-Founder of Techverz Development (Student Based Startup)
+"---Always Work Hard and Trust the Process---"
 
-Here are some ideas to get you started:
+Little facts about me 🧑
+🧞 I'm a Tech Enthusiast since childhood.
+🔭 I’m currently working on MERN stack Web Development ,and exploring AI/ML.
+👯 I’m looking to collaborate with Web and Mobile Developement projects.
+💡 Contributing to Open Source Projects is always been a goal to me.
+⚡ Fun fact: I love Sports, especially Cricket, Video Games and Chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Tech stack currently using:
+
+🌱 Looking forward to learn:
