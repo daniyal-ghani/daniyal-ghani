@@ -1,16 +1,49 @@
-Hi , I'm Daniyal
-Typing SVG
+# 👋 Hi, I'm Muhammad Daniyal
 
-This is me Muhammad Daniyal Computer System undergraduate from Dawood University of Engineering and Technology, Pakistan. An aspiring MERN Stack Developer,  Competitive Programmer  and Co-Founder of Techverz Development (Student Based Startup)
-"---Always Work Hard and Trust the Process---"
+**Computer System Engineer**  
+**Web Application Developer**
 
-Little facts about me 🧑
-🧞 I'm a Tech Enthusiast since childhood.
-🔭 I’m currently working on MERN stack Web Development ,and exploring AI/ML.
-👯 I’m looking to collaborate with Web and Mobile Developement projects.
-💡 Contributing to Open Source Projects is always been a goal to me.
-⚡ Fun fact: I love Sports, especially Cricket, Video Games and Chess.
+I am passionate about building modern, scalable and optimized web applications. I enjoy learning new technologies and expanding my skillset in the field of software development, machine learning, and artificial intelligence.
 
-✨ Tech stack currently using:
+---
 
-🌱 Looking forward to learn:
+### 🚀 Skills & Technologies
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript
+
+**Backend:**  
+Node.js • Express.js • PHP • Laravel
+
+**Databases:**  
+MongoDB • MySQL
+
+**Currently Learning:**  
+Machine Learning & Artificial Intelligence 🤖
+
+---
+
+### 💻 What I Do
+- Develop full-stack web applications
+- Build RESTful APIs
+- Work with both SQL and NoSQL databases
+- Always learning something new!
+
+---
+
+### 🌱 Current Goals
+- Dive deeper into AI & Machine Learning
+- Contribute to open source projects
+- Improve problem-solving and system design knowledge
+
+---
+
+### 📫 Contact Me
+**Email:** `your-email@example.com`  
+**LinkedIn:** *(Add your link here)*  
+**Portfolio/Website:** *(If you have one)*
+
+---
+
+Thanks for visiting my profile! 😊  
+Feel free to check out my repositories and connect!
