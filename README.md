@@ -1,7 +1,12 @@
 <!-- Banner / Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Daniyal+👋;Computer+System+Engineer;Web+Application+Developer;Learning+AI+%26+Machine+Learning+🤖">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Muhammad+Daniyal+👋;Computer+System+Engineer" />
 </h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2800&pause=900&color=FF6FF7&center=true&vCenter=true&width=600&lines=Web+Application+Developer;Learning+AI+%26+Machine+Learning+🤖" />
+</h1>
+
 
 ---
 
@@ -61,9 +66,9 @@ Currently exploring the world of **Machine Learning & Artificial Intelligence** 
 
 | Platform | Link |
 |---------|------|
-| Email | *Add your email here* |
-| LinkedIn | *Share your link and I will add it* |
-| Portfolio / Website | *If you have one, share it too* |
+| Email | *muhammaddaniyalqureshi07@gmail.co* |
+| LinkedIn | *https://www.linkedin.com/in/muhammad-daniyal-a091a2253/* |
+| Instagram | *https://www.instagram.com/muhammaddaniyal740* |
 
 ---
 
