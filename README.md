@@ -20,7 +20,7 @@ Currently exploring the world of **Machine Learning & Artificial Intelligence** 
 
 #### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,bootstrap,tailwind" />
 </p>
 
 #### **Backend**
