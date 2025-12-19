@@ -30,7 +30,7 @@ Currently exploring the world of **Machine Learning & Artificial Intelligence** 
 
 #### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,posgresql" />
 </p>
 
 #### **Currently Learning**
