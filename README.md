@@ -25,7 +25,7 @@ Currently exploring the world of **Machine Learning & Artificial Intelligence** 
 
 #### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest" />
 </p>
 
 #### **Database**
